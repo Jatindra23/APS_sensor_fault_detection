@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sesor-fault-detection
+Version: 0.0.0.1
+Author: Jatindra Paul
+Author-email: jatindrapaul7@gmail.com
+Requires-Dist: pymongo==4.2.0
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: statistics
+Requires-Dist: matplotlib
+Requires-Dist: scikit_learn
+Requires-Dist: catboost
+Requires-Dist: xgboost

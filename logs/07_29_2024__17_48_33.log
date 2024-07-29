@@ -1,0 +1,200 @@
+[2024-07-29 17:48:33,044] 14 root -INFO - trying to open requirementrs.txt file
+[2024-07-29 17:48:33,104] 985 root -INFO - running install
+[2024-07-29 17:48:33,615] 985 root -INFO - running bdist_egg
+[2024-07-29 17:48:33,644] 985 root -INFO - running egg_info
+[2024-07-29 17:48:33,644] 70 root -INFO - creating sesor_fault_detection.egg-info
+[2024-07-29 17:48:33,658] 668 root -INFO - writing sesor_fault_detection.egg-info\PKG-INFO
+[2024-07-29 17:48:33,670] 292 root -INFO - writing dependency_links to sesor_fault_detection.egg-info\dependency_links.txt
+[2024-07-29 17:48:33,670] 292 root -INFO - writing requirements to sesor_fault_detection.egg-info\requires.txt
+[2024-07-29 17:48:33,674] 292 root -INFO - writing top-level names to sesor_fault_detection.egg-info\top_level.txt
+[2024-07-29 17:48:33,676] 328 root -INFO - writing manifest file 'sesor_fault_detection.egg-info\SOURCES.txt'
+[2024-07-29 17:48:33,702] 190 root -INFO - reading manifest file 'sesor_fault_detection.egg-info\SOURCES.txt'
+[2024-07-29 17:48:33,702] 328 root -INFO - writing manifest file 'sesor_fault_detection.egg-info\SOURCES.txt'
+[2024-07-29 17:48:33,702] 161 root -INFO - installing library code to build\bdist.win-amd64\egg
+[2024-07-29 17:48:33,702] 985 root -INFO - running install_lib
+[2024-07-29 17:48:33,702] 985 root -INFO - running build_py
+[2024-07-29 17:48:33,702] 130 root -INFO - copying sensor\exception.py -> build\lib\sensor
+[2024-07-29 17:48:33,718] 130 root -INFO - copying sensor\logger.py -> build\lib\sensor
+[2024-07-29 17:48:33,725] 130 root -INFO - copying sensor\__init__.py -> build\lib\sensor
+[2024-07-29 17:48:33,725] 70 root -INFO - creating build\bdist.win-amd64\egg
+[2024-07-29 17:48:33,725] 70 root -INFO - creating build\bdist.win-amd64\egg\sensor
+[2024-07-29 17:48:33,725] 130 root -INFO - copying build\lib\sensor\exception.py -> build\bdist.win-amd64\egg\sensor
+[2024-07-29 17:48:33,739] 130 root -INFO - copying build\lib\sensor\logger.py -> build\bdist.win-amd64\egg\sensor
+[2024-07-29 17:48:33,739] 130 root -INFO - copying build\lib\sensor\__init__.py -> build\bdist.win-amd64\egg\sensor
+[2024-07-29 17:48:33,739] 491 root -INFO - byte-compiling build\bdist.win-amd64\egg\sensor\exception.py to exception.cpython-38.pyc
+[2024-07-29 17:48:33,751] 491 root -INFO - byte-compiling build\bdist.win-amd64\egg\sensor\logger.py to logger.cpython-38.pyc
+[2024-07-29 17:48:33,755] 491 root -INFO - byte-compiling build\bdist.win-amd64\egg\sensor\__init__.py to __init__.cpython-38.pyc
+[2024-07-29 17:48:33,755] 70 root -INFO - creating build\bdist.win-amd64\egg\EGG-INFO
+[2024-07-29 17:48:33,755] 130 root -INFO - copying sesor_fault_detection.egg-info\PKG-INFO -> build\bdist.win-amd64\egg\EGG-INFO
+[2024-07-29 17:48:33,771] 130 root -INFO - copying sesor_fault_detection.egg-info\SOURCES.txt -> build\bdist.win-amd64\egg\EGG-INFO
+[2024-07-29 17:48:33,783] 130 root -INFO - copying sesor_fault_detection.egg-info\dependency_links.txt -> build\bdist.win-amd64\egg\EGG-INFO
+[2024-07-29 17:48:33,787] 130 root -INFO - copying sesor_fault_detection.egg-info\requires.txt -> build\bdist.win-amd64\egg\EGG-INFO
+[2024-07-29 17:48:33,798] 130 root -INFO - copying sesor_fault_detection.egg-info\top_level.txt -> build\bdist.win-amd64\egg\EGG-INFO
+[2024-07-29 17:48:33,803] 268 root -WARNING - zip_safe flag not set; analyzing archive contents...
+[2024-07-29 17:48:33,811] 441 root -INFO - creating 'dist\sesor_fault_detection-0.0.0.1-py3.8.egg' and adding 'build\bdist.win-amd64\egg' to it
+[2024-07-29 17:48:33,825] 214 root -INFO - removing 'build\bdist.win-amd64\egg' (and everything under it)
+[2024-07-29 17:48:33,825] 731 root -INFO - Processing sesor_fault_detection-0.0.0.1-py3.8.egg
+[2024-07-29 17:48:33,847] 328 root -INFO - Copying sesor_fault_detection-0.0.0.1-py3.8.egg to c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:33,855] 1263 root -INFO - Adding sesor-fault-detection 0.0.0.1 to easy-install.pth file
+[2024-07-29 17:48:33,855] 769 root -INFO - 
+Installed c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages\sesor_fault_detection-0.0.0.1-py3.8.egg
+[2024-07-29 17:48:33,855] 783 root -INFO - Processing dependencies for sesor-fault-detection==0.0.0.1
+[2024-07-29 17:48:33,995] 927 root -INFO - Searching for xgboost==2.1.0
+[2024-07-29 17:48:33,995] 927 root -INFO - Best match: xgboost 2.1.0
+[2024-07-29 17:48:33,995] 1263 root -INFO - Adding xgboost 2.1.0 to easy-install.pth file
+[2024-07-29 17:48:33,997] 1669 root -INFO - detected new path './sesor_fault_detection-0.0.0.1-py3.8.egg'
+[2024-07-29 17:48:33,997] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,004] 927 root -INFO - Searching for catboost==1.2.5
+[2024-07-29 17:48:34,004] 927 root -INFO - Best match: catboost 1.2.5
+[2024-07-29 17:48:34,004] 1263 root -INFO - Adding catboost 1.2.5 to easy-install.pth file
+[2024-07-29 17:48:34,010] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,012] 927 root -INFO - Searching for scikit-learn==1.3.2
+[2024-07-29 17:48:34,012] 927 root -INFO - Best match: scikit-learn 1.3.2
+[2024-07-29 17:48:34,012] 1263 root -INFO - Adding scikit-learn 1.3.2 to easy-install.pth file
+[2024-07-29 17:48:34,015] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,018] 927 root -INFO - Searching for matplotlib==3.7.5
+[2024-07-29 17:48:34,018] 927 root -INFO - Best match: matplotlib 3.7.5
+[2024-07-29 17:48:34,018] 1263 root -INFO - Adding matplotlib 3.7.5 to easy-install.pth file
+[2024-07-29 17:48:34,020] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,024] 927 root -INFO - Searching for statistics==1.0.3.5
+[2024-07-29 17:48:34,024] 927 root -INFO - Best match: statistics 1.0.3.5
+[2024-07-29 17:48:34,024] 1263 root -INFO - Adding statistics 1.0.3.5 to easy-install.pth file
+[2024-07-29 17:48:34,026] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,029] 927 root -INFO - Searching for seaborn==0.13.2
+[2024-07-29 17:48:34,029] 927 root -INFO - Best match: seaborn 0.13.2
+[2024-07-29 17:48:34,029] 1263 root -INFO - Adding seaborn 0.13.2 to easy-install.pth file
+[2024-07-29 17:48:34,029] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,029] 927 root -INFO - Searching for pandas==2.0.3
+[2024-07-29 17:48:34,029] 927 root -INFO - Best match: pandas 2.0.3
+[2024-07-29 17:48:34,029] 1263 root -INFO - Adding pandas 2.0.3 to easy-install.pth file
+[2024-07-29 17:48:34,037] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,037] 927 root -INFO - Searching for numpy==1.24.4
+[2024-07-29 17:48:34,037] 927 root -INFO - Best match: numpy 1.24.4
+[2024-07-29 17:48:34,037] 1263 root -INFO - Adding numpy 1.24.4 to easy-install.pth file
+[2024-07-29 17:48:34,043] 865 root -INFO - Installing f2py-script.py script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,072] 865 root -INFO - Installing f2py.exe script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,072] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,072] 927 root -INFO - Searching for pymongo==4.2.0
+[2024-07-29 17:48:34,072] 927 root -INFO - Best match: pymongo 4.2.0
+[2024-07-29 17:48:34,072] 1263 root -INFO - Adding pymongo 4.2.0 to easy-install.pth file
+[2024-07-29 17:48:34,085] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,085] 927 root -INFO - Searching for scipy==1.10.1
+[2024-07-29 17:48:34,085] 927 root -INFO - Best match: scipy 1.10.1
+[2024-07-29 17:48:34,089] 1263 root -INFO - Adding scipy 1.10.1 to easy-install.pth file
+[2024-07-29 17:48:34,092] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,092] 927 root -INFO - Searching for six==1.16.0
+[2024-07-29 17:48:34,092] 927 root -INFO - Best match: six 1.16.0
+[2024-07-29 17:48:34,092] 1263 root -INFO - Adding six 1.16.0 to easy-install.pth file
+[2024-07-29 17:48:34,092] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,092] 927 root -INFO - Searching for plotly==5.23.0
+[2024-07-29 17:48:34,092] 927 root -INFO - Best match: plotly 5.23.0
+[2024-07-29 17:48:34,092] 1263 root -INFO - Adding plotly 5.23.0 to easy-install.pth file
+[2024-07-29 17:48:34,104] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,104] 927 root -INFO - Searching for graphviz==0.20.3
+[2024-07-29 17:48:34,104] 927 root -INFO - Best match: graphviz 0.20.3
+[2024-07-29 17:48:34,104] 1263 root -INFO - Adding graphviz 0.20.3 to easy-install.pth file
+[2024-07-29 17:48:34,112] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,112] 927 root -INFO - Searching for threadpoolctl==3.5.0
+[2024-07-29 17:48:34,112] 927 root -INFO - Best match: threadpoolctl 3.5.0
+[2024-07-29 17:48:34,112] 1263 root -INFO - Adding threadpoolctl 3.5.0 to easy-install.pth file
+[2024-07-29 17:48:34,117] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,120] 927 root -INFO - Searching for joblib==1.4.2
+[2024-07-29 17:48:34,120] 927 root -INFO - Best match: joblib 1.4.2
+[2024-07-29 17:48:34,120] 1263 root -INFO - Adding joblib 1.4.2 to easy-install.pth file
+[2024-07-29 17:48:34,125] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,127] 927 root -INFO - Searching for importlib-resources==6.4.0
+[2024-07-29 17:48:34,127] 927 root -INFO - Best match: importlib-resources 6.4.0
+[2024-07-29 17:48:34,127] 1263 root -INFO - Adding importlib-resources 6.4.0 to easy-install.pth file
+[2024-07-29 17:48:34,132] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,132] 927 root -INFO - Searching for python-dateutil==2.9.0.post0
+[2024-07-29 17:48:34,132] 927 root -INFO - Best match: python-dateutil 2.9.0.post0
+[2024-07-29 17:48:34,132] 1263 root -INFO - Adding python-dateutil 2.9.0.post0 to easy-install.pth file
+[2024-07-29 17:48:34,136] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,136] 927 root -INFO - Searching for pyparsing==3.1.2
+[2024-07-29 17:48:34,136] 927 root -INFO - Best match: pyparsing 3.1.2
+[2024-07-29 17:48:34,136] 1263 root -INFO - Adding pyparsing 3.1.2 to easy-install.pth file
+[2024-07-29 17:48:34,136] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,149] 927 root -INFO - Searching for pillow==10.4.0
+[2024-07-29 17:48:34,149] 927 root -INFO - Best match: pillow 10.4.0
+[2024-07-29 17:48:34,149] 1263 root -INFO - Adding pillow 10.4.0 to easy-install.pth file
+[2024-07-29 17:48:34,151] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,151] 927 root -INFO - Searching for packaging==21.3
+[2024-07-29 17:48:34,151] 927 root -INFO - Best match: packaging 21.3
+[2024-07-29 17:48:34,151] 1263 root -INFO - Adding packaging 21.3 to easy-install.pth file
+[2024-07-29 17:48:34,157] 769 root -INFO - 
+Using c:\users\joy\appdata\roaming\python\python38\site-packages
+[2024-07-29 17:48:34,157] 927 root -INFO - Searching for kiwisolver==1.4.5
+[2024-07-29 17:48:34,157] 927 root -INFO - Best match: kiwisolver 1.4.5
+[2024-07-29 17:48:34,157] 1263 root -INFO - Adding kiwisolver 1.4.5 to easy-install.pth file
+[2024-07-29 17:48:34,157] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,164] 927 root -INFO - Searching for fonttools==4.53.1
+[2024-07-29 17:48:34,164] 927 root -INFO - Best match: fonttools 4.53.1
+[2024-07-29 17:48:34,164] 1263 root -INFO - Adding fonttools 4.53.1 to easy-install.pth file
+[2024-07-29 17:48:34,168] 865 root -INFO - Installing fonttools-script.py script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,170] 865 root -INFO - Installing fonttools.exe script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,171] 865 root -INFO - Installing pyftmerge-script.py script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,174] 865 root -INFO - Installing pyftmerge.exe script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,174] 865 root -INFO - Installing pyftsubset-script.py script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,179] 865 root -INFO - Installing pyftsubset.exe script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,179] 865 root -INFO - Installing ttx-script.py script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,184] 865 root -INFO - Installing ttx.exe script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,184] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,184] 927 root -INFO - Searching for cycler==0.12.1
+[2024-07-29 17:48:34,184] 927 root -INFO - Best match: cycler 0.12.1
+[2024-07-29 17:48:34,184] 1263 root -INFO - Adding cycler 0.12.1 to easy-install.pth file
+[2024-07-29 17:48:34,192] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,194] 927 root -INFO - Searching for contourpy==1.1.1
+[2024-07-29 17:48:34,194] 927 root -INFO - Best match: contourpy 1.1.1
+[2024-07-29 17:48:34,195] 1263 root -INFO - Adding contourpy 1.1.1 to easy-install.pth file
+[2024-07-29 17:48:34,198] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,198] 927 root -INFO - Searching for docutils==0.20.1
+[2024-07-29 17:48:34,198] 927 root -INFO - Best match: docutils 0.20.1
+[2024-07-29 17:48:34,198] 1263 root -INFO - Adding docutils 0.20.1 to easy-install.pth file
+[2024-07-29 17:48:34,198] 865 root -INFO - Installing docutils-script.py script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,205] 865 root -INFO - Installing docutils.exe script to c:\Users\JOY\Desktop\senesor_fault_detection\venv\Scripts
+[2024-07-29 17:48:34,207] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,209] 927 root -INFO - Searching for tzdata==2024.1
+[2024-07-29 17:48:34,210] 927 root -INFO - Best match: tzdata 2024.1
+[2024-07-29 17:48:34,210] 1263 root -INFO - Adding tzdata 2024.1 to easy-install.pth file
+[2024-07-29 17:48:34,213] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,215] 927 root -INFO - Searching for pytz==2024.1
+[2024-07-29 17:48:34,215] 927 root -INFO - Best match: pytz 2024.1
+[2024-07-29 17:48:34,215] 1263 root -INFO - Adding pytz 2024.1 to easy-install.pth file
+[2024-07-29 17:48:34,219] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,220] 927 root -INFO - Searching for tenacity==8.5.0
+[2024-07-29 17:48:34,220] 927 root -INFO - Best match: tenacity 8.5.0
+[2024-07-29 17:48:34,220] 1263 root -INFO - Adding tenacity 8.5.0 to easy-install.pth file
+[2024-07-29 17:48:34,222] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,224] 927 root -INFO - Searching for zipp==3.19.2
+[2024-07-29 17:48:34,224] 927 root -INFO - Best match: zipp 3.19.2
+[2024-07-29 17:48:34,225] 1263 root -INFO - Adding zipp 3.19.2 to easy-install.pth file
+[2024-07-29 17:48:34,228] 769 root -INFO - 
+Using c:\users\joy\desktop\senesor_fault_detection\venv\lib\site-packages
+[2024-07-29 17:48:34,229] 797 root -INFO - Finished processing dependencies for sesor-fault-detection==0.0.0.1

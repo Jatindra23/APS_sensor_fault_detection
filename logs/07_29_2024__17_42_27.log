@@ -1,0 +1,10 @@
+[2024-07-29 17:42:27,237] 14 root -INFO - trying to open requirementrs.txt file
+[2024-07-29 17:42:27,290] 985 root -INFO - running egg_info
+[2024-07-29 17:42:27,292] 70 root -INFO - creating C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info
+[2024-07-29 17:42:27,299] 668 root -INFO - writing C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\PKG-INFO
+[2024-07-29 17:42:27,302] 292 root -INFO - writing dependency_links to C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\dependency_links.txt
+[2024-07-29 17:42:27,302] 292 root -INFO - writing requirements to C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\requires.txt
+[2024-07-29 17:42:27,303] 292 root -INFO - writing top-level names to C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\top_level.txt
+[2024-07-29 17:42:27,303] 328 root -INFO - writing manifest file 'C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\SOURCES.txt'
+[2024-07-29 17:42:27,334] 190 root -INFO - reading manifest file 'C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\SOURCES.txt'
+[2024-07-29 17:42:27,334] 328 root -INFO - writing manifest file 'C:\Users\JOY\AppData\Local\Temp\pip-pip-egg-info-04drl5xa\sesor_fault_detection.egg-info\SOURCES.txt'
